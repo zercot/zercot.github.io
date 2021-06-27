@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Investing
+title: Football
 subtitle: Tools and resources for football
 ---

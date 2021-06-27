@@ -6,17 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Home
 
 # Your name to show in the footer
-author: Some Person
+author: zercot
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Data Science: "datascience"
-  Football: "football"
   Investing: "investing"
+  Football: "football"
   Tools: "tools"
   Projects: "projects"
 
